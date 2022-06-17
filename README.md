@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @itsdeepakm
-- 👀 I’m interested in App development and Web development
--want to aquire that much knowledge so that i can turn my ideas into reality
-- skills:-HTML,CSS,JAVASCRIPT,REACT NATIVE,REACT
+- 👋 Hi, I’m Student of Bit Mesra who want to aquire that much knowledge so that i can turn my ideas into reality.
+- 🌱 I’m currently learning DSA.
+- 👀 I’m interested in App development and Web development.
+- 💬 Ask me about C++,DSA,Web Development & App development.
+- 🧠skills:HTML,CSS,JAVASCRIPT,REACT NATIVE,REACT.
 - 📫 How to reach me email:deepaklewiskumar.19@gmail.com
 
 <!---
